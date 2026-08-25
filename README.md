@@ -1,1 +1,1 @@
-# convopro-private-chatgpt
+# whisper-private-chatgpt
