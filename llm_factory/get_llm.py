@@ -4,7 +4,7 @@ from config.settings import Settings
 settings = Settings()
 OLLAMA_URL = settings.OLLAMA_URL
 
-# client = Ollama(model=settings.OLLAMA_URL, base_url=settings.OLLAMA_URL)
+
 current_model_name = None
 current_llm_instance = None
 
